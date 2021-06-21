@@ -4,7 +4,7 @@ This is my reading notes repo to track all of my reading notes.
 
 ## About Me
 
-My name is **Alli**. I am a Systems Analyst at Zillow Group and am based in the Seattle area. [This](https://github.com/atjader10) is the link to my GitHub profile page. 
+My name is **Alli**. I am a Systems Analyst and am based in the Seattle area. [This](https://github.com/atjader10) is the link to my GitHub profile page. 
 
 ### Growth Mindset
 
