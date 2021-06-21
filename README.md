@@ -8,13 +8,11 @@ My name is Alli. I am a Systems Analyst at Zillow Group.
 
 ### Growth Mindset
 
-To me, growth mindset is about being able to learn.
+To me, growth mindset is about being able to take a step back and find a different perspective in order to see challenges as exciting opportunities to learn. 
 
-- Stay Positive
-- Always Learn
-- Be open minded
-
-
+- Lean on teammates to find the best opportunities for collaboration
+- Don't get too down when getting stuck on a problem
+- Remember that hard work pays off, even if it isn't always immediately
 
 
 ### This is a Heading 3
