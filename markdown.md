@@ -1,8 +1,7 @@
 This is where I will put my reading notes for markdown. 
 
-**Summary:** Markdown is a simple tool that you can use to style text on GitHub. This article will teach you how to use Markdown formatting to make updates and style choices. 
-
 ## Mastering Markdown on GitHub
+**Summary:** Markdown is a simple tool that you can use to style text on GitHub. This article will teach you how to use Markdown formatting to make updates and style choices. 
 ### Section 1: What is Markdown?
 - a way to style text
 - decided by the user
