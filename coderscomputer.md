@@ -120,4 +120,22 @@
 - root = top of the hierarchy
 - absolute = location in relation to root directory, start with /
 - relative = location in relation to where you are now, do not start with /
-- 
+- ~ = home directory
+- . = current directory
+- .. = parent directory
+### Move Around a Bit
+- cd = change directory (i.e. cd[location])
+- running cd w/o arguments takes  you back to home directory
+
+## More About Files
+- think of everything as a file (one that provides inputs, one that only reads outputs, etc.)
+### Linux is Extensionless
+- Linux uses the content of a file to determine what kind of file it is
+- file[path] can be used to determine what kind of file 
+### Linux is Case Sensitive
+### Spaces in Names
+- can use quotes to have the system treat something as one item
+- can use a \ to null the special meaning of character following the \
+### Hidden Files and Directories
+- files starting with a . are hidden
+- adding '-a' in the command will show hidden files or directories
