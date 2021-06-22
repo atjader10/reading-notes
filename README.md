@@ -13,3 +13,7 @@ My name is **Alli**. I am a Systems Analyst and am based in the Seattle area. [T
 1. Lean on teammates to find the best opportunities for collaboration
 2. Don't get too down when getting stuck on a problem
 3. Remember that hard work pays off, even if it isn't always immediately
+
+- local changes made on computer
+
+## test header 2
