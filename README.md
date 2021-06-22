@@ -16,4 +16,8 @@ My name is **Alli**. I am a Systems Analyst and am based in the Seattle area. [T
 
 - local changes made on computer
 
-## test header 2
+### Table of Contents
+- [Reading 1](markdown.md)
+- [Reading 2](coderscomputer.md)
+- [Reading 3](github.md)
+
