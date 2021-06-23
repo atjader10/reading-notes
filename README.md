@@ -1,6 +1,6 @@
 # Reading Notes for CodeFellows
 
-This is my reading notes repo to track all of my reading notes. 
+This is my reading notes repo to track all of my reading notes. See below for the Table of Contents.  
 
 ## About Me
 
@@ -14,10 +14,8 @@ My name is **Alli**. I am a Systems Analyst and am based in the Seattle area. [T
 2. Don't get too down when getting stuck on a problem
 3. Remember that hard work pays off, even if it isn't always immediately
 
-- local changes made on computer
-
 ### Table of Contents
-- [Reading 1](markdown.md)
-- [Reading 2](coderscomputer.md)
-- [Reading 3](github.md)
+- [Reading 1 - Markdown](markdown.md)
+- [Reading 2 - Coder's Computer](coderscomputer.md)
+- [Reading 3 - GitHub](github.md)
 
