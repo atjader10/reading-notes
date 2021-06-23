@@ -18,4 +18,5 @@ My name is **Alli**. I am a Systems Analyst and am based in the Seattle area. [T
 - [Reading 1 - Markdown](markdown.md)
 - [Reading 2 - Coder's Computer](coderscomputer.md)
 - [Reading 3 - GitHub](github.md)
+- [Reading 4 - HTML](html.md)
 
