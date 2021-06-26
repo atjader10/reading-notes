@@ -20,5 +20,6 @@ My name is **Alli**. I am a Systems Analyst and am based in the Seattle area. [T
 - [Reading 3 - GitHub](github.md)
 - [Reading 4 - HTML](html.md)
 - [Reading 5 - CSS](css.md)
+- [Reading 6 - JS](dynamic-web-pages-js.md)
 
 
