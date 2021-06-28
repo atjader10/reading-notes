@@ -1,0 +1,49 @@
+# Expressions and Operators
+- different types of operators:
+    - assignment
+    - comparison: compares operands and returns a logical value based on whether the comparison is true
+    - arithmetic: takes numerical values and returns just a single numerical value
+    - bitwise: treats their operands as a set of 32 bits (zeros and ones), instead of returning a decimal, hexadecimal, or octal number
+        - shift operators: first number to be shifted, then the number of positions the first one needs to be shifted
+    - logical: usually used with Boolean values 
+    - string: concatenates string values together
+    - conditional (ternary): if fist condition is true, then it returns the second operand, else the third operand
+    - comma: evaluates both operands and returns the last one
+    - unary
+        - delete: removes an object's property
+        - typeof: returns a string indicating the type of the unevaluated operand
+        - void: highlights an expression to be evaluated without returning a value
+    - relational
+        - in: returns true if the specified property is in the specified object
+        - instanceof: returns true if the specified object is of the specified object type
+- expressions: an valid unit of code that resolves to a value
+    - with side effects (assign value to a variable)
+    - evaluate and therefore resolved to a value
+    - categories:
+        - arithmetic: evluates to a number
+        - string: evaluates to a character string
+        - logical: evaluates to true or false
+        - primary expressions: basic keywords and general expressions in JavaScript
+            - this: refers to a current object
+            - grouping operator: controls the precedence of evaluation in expressions using ()
+        - left-hand-side expressions: left values are the destination of an assignment
+            - new: create an instance of a user-defined object type
+            - super: call functions on an object's parents
+
+# Loops and iteration
+-  repeat an action a certain number of times
+- for statement
+    - repeats until the specified condition returns false
+    - an expression is run and conditionExpression evaluated
+        - if true, loop statement runs
+        - if false, loop stops
+        - if no conditionExpression, assumes true
+    - statement executed
+    - returns to conditionExpression evaluation
+- while statement
+    - executes a statement as long as a specified condition is true
+- labeled: identifies a statement
+- break: terminate a loop
+- continue: restart a statement
+- for...in
+- for...of
